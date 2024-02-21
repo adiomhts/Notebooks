@@ -1,7 +1,7 @@
 # Project Description
 This project is a web application developed using Flask, SQLAlchemy, and Flask-Login. The project is designed for managing user notes. Users can register, log in, create, edit, and delete their notes using this application.
 
-[Link](https://adiomhts.pythonanywhere.com/) to the web application: 
+[Link](https://adiomhts.pythonanywhere.com/) to the web application.
 
 Usage
 1. Registration and Login: Users can register by filling out the registration form and log in using their credentials on the login page.
